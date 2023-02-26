@@ -3,4 +3,4 @@ project(CTLab C)
 
 set(CMAKE_C_STANDARD 17)
 
-add_executable(CTLab main.c)
+add_executable(CTLab src/main.c)
